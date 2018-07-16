@@ -1,0 +1,11 @@
+.input {
+    padding: 20px 10px;
+    border: 0;
+    width: 75%;
+    background: url(../../asset/images/pencil.png) no-repeat right center;
+padding-left:30px;
+}
+.btnPencil {
+    background: transparent;
+    border: 0;
+}

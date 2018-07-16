@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}  
+.container {
+    display: -ms-flexbox;
+	display: -webkit-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    max-width:900px;
+    width: 100%;
+    margin: 30px auto;
+    
+}
+.header {
+    width: 100%;
+}
+h1 {
+    font-size: 23px;
+    color: #333333;
+    margin: 0 10px;
+}
+h3 {
+    font-size: 14px;
+    color: #d3d3d3;
+    margin: 0 10px;
+}
+.hr {
+    border: none;
+    height: 1px;
+    color: #c0c0c0;
+    background-color: #c0c0c0;
+}
