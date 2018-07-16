@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import './style.css'
-import PencilImage from '../../asset/images/pencil.png'
 
 class TextInput extends Component {
     static propTypes = {
