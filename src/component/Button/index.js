@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import PropTypes from 'prop-types'
-import FontAwesome from 'react-fontawesome'
 import './style.css';
 import PlusImage from '../../asset/images/plus-icon.png'
 import TextInput from '../TextInput'
